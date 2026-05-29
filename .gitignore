@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+uploads/
+generated/
+*.exe
+*.zip
+*.log
+.env
